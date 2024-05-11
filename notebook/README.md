@@ -1,0 +1,1 @@
+All notebooks here should run in GPU
