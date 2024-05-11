@@ -1,3 +1,3 @@
 # hospital
 
-This is a hospital management sysme
+This is a hospital management system.
