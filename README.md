@@ -10,3 +10,7 @@ This is a hospital management system.
 1. This is one
 1. This is not one
 1. This is obviously 3
+
+# Lets bold
+
+I am **bold** but not *italics*
