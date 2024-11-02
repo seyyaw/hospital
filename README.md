@@ -1,16 +1,16 @@
-# hospital
+ hospital
 
 This is a hospital management system.
 
-# Introduction
+ Introduction
 
-## Basics
+ Basics
 
-## Another basics
-1. This is one
-1. This is not one
-1. This is obviously 3
+ Another basics
+This is one
+ This is not one
+ This is obviously 3
 
-# Lets bold
+ Lets bold
 
-I am **bold** but not *italics*
+I am bold but not italics
